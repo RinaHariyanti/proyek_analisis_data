@@ -1,7 +1,6 @@
-Import Library
-1. numpy
-2. pandas
-3. matplotlib.pyplot
-4. seaborn
-5. streamlit
-6. babel
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import streamlit
+import babel
